@@ -4,7 +4,7 @@ base image: python:2.7.13-jessie
 
 numpy==1.13.1
 
-pandas==0.20.3
+pandas==0.19.2
 
 TA-Lib==0.4.10
 
